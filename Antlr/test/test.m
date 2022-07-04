@@ -1,0 +1,15 @@
+k=sqrt(-4)
+k1=sqrt(4)
+t=2-3*4 +5*(7-6)
+N=sqrt(81)
+y=zeros(N);
+eye1=eye(sqrt(16));
+eye2=eye(5,4);
+%N=sqrt(4);
+w=linspace(1,10,11)
+ss=linspace(0,6.28318530718,10);
+dd=sin(ss)
+%one2=ones(4);
+%k=y+one2;
+one1=ones(1,10);
+x=zeros(2,2);
